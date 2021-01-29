@@ -14,17 +14,17 @@
             "sizes": "512x512"
         }
     ],
-    "start_url": "/",
+    "start_url": "./",
     "background_color": "#3367D6",
     "display": "standalone",
-    "scope": "/",
+    "scope": "./",
     "theme_color": "#3367D6",
     "shortcuts": [
         {
             "name": "How's weather today?",
             "short_name": "Today",
             "description": "View weather information for today",
-            "url": "/today?source=pwa",
+            "url": "./today?source=pwa",
             "icons": [{ "src": "./logo-pwa-192x192.png", "sizes": "192x192" }]
         }
     ]
