@@ -4,12 +4,12 @@
     "description": "Web X Demo",
     "icons": [
         {
-            "src": "/logo-pwa-192x192.png",
+            "src": "./logo-pwa-192x192.png",
             "type": "image/png",
             "sizes": "192x192"
         },
         {
-            "src": "/logo-pwa-512x512.png",
+            "src": "./logo-pwa-512x512.png",
             "type": "image/png",
             "sizes": "512x512"
         }
@@ -25,7 +25,7 @@
             "short_name": "Today",
             "description": "View weather information for today",
             "url": "/today?source=pwa",
-            "icons": [{ "src": "/logo-pwa-192x192.png", "sizes": "192x192" }]
+            "icons": [{ "src": "./logo-pwa-192x192.png", "sizes": "192x192" }]
         }
     ]
 }
