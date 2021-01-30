@@ -1,4 +1,4 @@
-importScripts("/precache-manifest.4ec44859852bb629dd7d3b81139a604f.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("/farm-page/precache-manifest.a8d651d2f47453eaa84bc5dedaf0b563.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 /*
 Copyright 2015, 2019, 2020 Google LLC. All Rights Reserved.
